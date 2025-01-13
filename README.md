@@ -5,6 +5,9 @@
 
 ### People
 Roan Hardin - Lead Developer
+
 Finnegan Thompson - Art and animation
+
 Riley Poldino - absent
+
 Jack Christensen - absent
